@@ -1,5 +1,5 @@
-''' I have to define operators and the code run until I tell it to stop
-operators (+),(-),(*),(/),(%),(sqrt)'''
+
+'''operators (+),(-),(*),(/),(%),(sqrt)'''
 import math
 print()
 def add(x, y):
